@@ -1,0 +1,55 @@
+body {
+    background-image: url("../img/Beach.gif");
+}
+
+
+.photoo {
+    width: 800px;
+    height: 450px;
+}
+
+
+#Socialmedia {
+    position: absolute;
+    top: 90%;
+    left: 43%;
+    margin-bottom:
+}
+
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+
+
+
+
+
+.success {
+    color: dodgerblue;
+}
+
+.info {
+    color: dodgerblue;
+}
+
+.btn:hover {
+    background: #eee;
+}
+
+
+
+
+
+#Socialmedia {
+    position: absolute;
+    top: 90%;
+    left: 43%;
+    margin-bottom:
+}
